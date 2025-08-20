@@ -1,3 +1,4 @@
+streamlit
 absl-py==2.1.0
 alembic==1.13.1
 astunparse==1.6.3
@@ -38,7 +39,6 @@ namex==0.0.8
 numpy==1.23.5
 oauthlib==3.2.2
 opencv-contrib-python==4.9.0.80
-opencv-python==4.9.0.80
 opt-einsum==3.3.0
 optree==0.11.0
 optuna==3.6.1
@@ -66,8 +66,8 @@ sounddevice==0.4.6
 sqlalchemy==2.0.30
 tensorboard==2.16.2
 tensorboard-data-server==0.7.2
-tensorflow==2.16.1
-tensorflow-estimator==2.12.0
+tensorflow==2.16.*
+tensorflow-estimator==2.12.*
 tensorflow-io-gcs-filesystem==0.31.0
 termcolor==2.4.0
 threadpoolctl==3.5.0
