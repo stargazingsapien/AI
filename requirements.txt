@@ -1,7 +1,9 @@
 streamlit
+mediapipe
 pandas
 numpy
 scikit-learn
 matplotlib
 joblib
 opencv-python-headless
+
