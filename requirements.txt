@@ -6,4 +6,3 @@ scikit-learn
 matplotlib
 joblib
 opencv-python-headless
-
