@@ -173,7 +173,7 @@ python-dotenv==1.1.1
 python-json-logger==3.3.0
 pyttsx3==2.99
 pytz==2025.2
-pywin32==311
+pywin32==311; sys_platform == "win32"
 pywin32-ctypes==0.2.3
 pywinpty==3.0.0
 PyYAML==6.0.2
@@ -236,4 +236,5 @@ widgetsnbextension==4.0.14
 wrapt==1.17.3
 yarl==1.20.1
 zstandard==0.24.0
+
 
