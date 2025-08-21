@@ -128,7 +128,7 @@ nest-asyncio==1.6.0
 nh3==0.3.0
 notebook==7.4.5
 notebook_shim==0.2.4
-numpy @ file:///C:/b/abs_c1ywpu18ar/croot/numpy_and_numpy_base_1708638681471/work/dist/numpy-1.26.4-cp312-cp312-win_amd64.whl#sha256=becc06674317799ad0165a939a7613809d0bee9bd328a1e4308c57c39cacf08c
+numpy==1.26.4
 opencv-contrib-python==4.11.0.86
 opencv-python==4.11.0.86
 openpyxl==3.1.5
@@ -236,3 +236,4 @@ widgetsnbextension==4.0.14
 wrapt==1.17.3
 yarl==1.20.1
 zstandard==0.24.0
+
